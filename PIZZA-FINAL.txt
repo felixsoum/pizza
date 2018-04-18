@@ -1,6 +1,7 @@
 pizza dough
 fish sauce, raw sauce
 sweet bacon juice
+<<<<<<< HEAD
 cheese
 mozzarella
 spaguetti sauce
@@ -10,3 +11,11 @@ Orange
 Pomme
 Jus
 Anananananananas
+=======
+la baguette
+Omelette au fromage
+cheese
+mozzarella
+spaghetti sauce
+Collin y suce
+>>>>>>> 99b9bee3932ecedf53ee82092dd1fcdade264539
